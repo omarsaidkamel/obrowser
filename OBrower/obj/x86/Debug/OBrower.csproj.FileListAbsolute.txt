@@ -1,0 +1,8 @@
+D:\programing\OBrower\OBrower\bin\Debug\OBrower.exe
+D:\programing\OBrower\OBrower\bin\Debug\OBrower.pdb
+D:\programing\OBrower\OBrower\obj\x86\Debug\OBrower.Form1.resources
+D:\programing\OBrower\OBrower\obj\x86\Debug\OBrower.Properties.Resources.resources
+D:\programing\OBrower\OBrower\obj\x86\Debug\OBrower.csproj.GenerateResource.Cache
+D:\programing\OBrower\OBrower\obj\x86\Debug\OBrower.exe
+D:\programing\OBrower\OBrower\obj\x86\Debug\OBrower.pdb
+D:\programing\OBrower\OBrower\obj\x86\Debug\OBrower.csprojResolveAssemblyReference.cache
